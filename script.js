@@ -9,8 +9,8 @@ const title = [
 const titledinner = [
   "so destine today i want to invite destine to dinner together and hang out",
   "we can eat destine favorite food maybe i know a place which may destine like or destine can recommend it too",
-  "we will do a lot agenda together tommorow and know each other deeper",
-  "so destine can we hang out together tommorow?",
+  "we will do a lot agenda together today and know each other deeper",
+  "so destine can we hang out together today?",
 ];
 
 let titleshow = document.getElementById("title");
